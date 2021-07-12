@@ -1,9 +1,10 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Home from './pages/Home';
 
 function App() {
   return (
-    <h2>Porfolio</h2>
+    <Home />
   );
 }
 
