@@ -5,8 +5,8 @@ import bangs from '../bangs.png';
 function Hero() {
   return (
     <div className="container-fluid">
-      <div className="row align-items-center">
-        <div className="col">
+      <div className="row align-items-center main">
+        <div className="col right-side">
           <h1>Bringing all your ideas to life.</h1>
           <h4><strong>Brenda Lima</strong> - Fullstack web developer</h4>
         </div>
